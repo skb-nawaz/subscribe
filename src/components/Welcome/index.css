@@ -1,0 +1,38 @@
+/* Write your CSS here */
+.bg-container {
+  height: 100vh;
+  background-color: #1e293b;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.Heading {
+  font-size: 65px;
+  color: #f0bb03;
+  font-family: bree serif;
+}
+
+.para {
+  font-size: 45px;
+  color: white;
+  font-family: bree serif;
+}
+
+.buttonsty1 {
+  height: 35px;
+  font-family: bree serif;
+  border-radius: 25px;
+  width: 150px;
+  background-color: green;
+}
+
+.buttonsty2 {
+  height: 35px;
+  font-family: bree serif;
+  border-radius: 25px;
+  width: 150px;
+  background-color: red;
+}
